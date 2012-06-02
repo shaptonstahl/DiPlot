@@ -1,10 +1,10 @@
 Package: diplot
 Type: Package
 Title: Tools to plot descriptive statistics, posterior distributions, and more.
-Version: 0.9
-Date: 2012-06-30
+Version: 0.8
+Date: 2008-08-24
 Author: Stephen R. Haptonstahl <srh@haptonstahl.org>
 Maintainer: Stephen R. Haptonstahl <srh@haptonstahl.org>
 Depends: nnet
 Description: Tools to plot descriptive statistics, posterior distributions, etc.
-License: GPL (>= 2)
+License: What license is it under?
